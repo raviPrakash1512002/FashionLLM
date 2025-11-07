@@ -1,0 +1,34 @@
+# Frontend specific
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/.env.development
+frontend/.env.test
+frontend/.env.production
+frontend/.DS_Store
+frontend/.cache/
+frontend/dist/
+frontend/build/
+frontend/coverage/
+
+# Backend specific
+backend/node_modules/
+backend/.env
+backend/.DS_Store
+backend/logs/
+backend/*.log
+backend/.nyc_output/
+backend/coverage/
+
+
+.DS_Store
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+.idea/
+.vscode/
+*.code-workspace
+.env
+.env.local
